@@ -1,0 +1,16 @@
+.card .box h1 {
+    color: black;
+    text-align: center;
+}
+
+.card .box h3 {
+    color: #999;
+    text-decoration: bold;
+}
+
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}

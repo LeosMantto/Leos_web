@@ -1,0 +1,83 @@
+/*styles de tabla de usuarios sgm */
+.sub-content-view-user-1 .title .btn_view_all {
+    background: #262525;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: none;
+    text-align: center;
+}
+
+.sub-content-view-user-1 .title .btn_view_all:hover {
+    background: #FFF;
+    color: #262525;
+    padding: 3px 8px;
+    border: 1px solid #262525;
+}
+
+
+.sub-content-view-user-1 .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    border-bottom: 1px solid #999;
+    text-transform: uppercase;
+}
+
+.sub-content-view-user-1 .title h2 {
+    color: black;
+}
+
+/* css de table de user */
+
+.sub-content-view-user-1 .table-user-mini {
+    padding: 10px;
+}
+
+.sub-content-view-user-1 .table-user-mini th, td{
+   text-align: left;
+   padding: 8px;
+}
+
+.sub-content-view-user-1 {
+    display: flex;
+    flex-direction: column;
+}
+
+/*styles de tabla de supervisores */
+
+.sub-content-view-sup-2 .title .btn_view_all {
+    background: #262525;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: none;
+    text-align: center;
+}
+
+.sub-content-view-sup-2 .title .btn_view_all:hover {
+    background: #FFF;
+    color: #262525;
+    padding: 3px 8px;
+    border: 1px solid #262525;
+}
+
+
+.sub-content-view-sup-2 .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    border-bottom: 1px solid #999;
+    text-transform: uppercase;
+}
+
+.sub-content-view-sup-2 .title h2 {
+    color: black;
+}
+
+.sub-content-view-sup-2 {
+    display: flex;
+    flex-direction: column;
+}
